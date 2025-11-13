@@ -4,6 +4,9 @@ Hi there! 👋
 Thanks for showing interest in improving this project. Follow these steps if you’d like to contribute:
 
 1. Fork this repository.
+    ```bash
+    gh repo fork Soumya-r-Sahu/git-final-project
+
 2. Create a new branch for your changes:
    ```bash
    git checkout -b bug-fix
